@@ -1,0 +1,1 @@
+# Generates_a_Random_Business_Idea_in_Ruby
